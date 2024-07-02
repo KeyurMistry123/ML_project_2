@@ -4,4 +4,6 @@ sklearn
 matplotlib
 mlflow
 python-box
+pyyaml
+joblib
 -e .
